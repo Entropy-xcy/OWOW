@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+#this file is just to test how the sift algorithms work in detecting the robot
+
 import cv2
 from matplotlib import pyplot as plt
 import detection
